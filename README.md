@@ -7,7 +7,7 @@
 - I take pleasure in learning new material to boost my computing knowledge.
 
 ## 🔧 Technologies & Tools
-- Python, JavaScript, Go  
+- Python, Go, JavaScript, Java, R, C
 - React, Node.js  
 - Docker, Kubernetes
 - Git, CICD
