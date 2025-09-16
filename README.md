@@ -12,4 +12,4 @@ teaching myself math at a college level.
 - Git, CICD
 
 ## Check out my website!
-[My Portfolio](~www.hadi-khan.com)
+[My Portfolio](https://www.hadi-khan.com)
