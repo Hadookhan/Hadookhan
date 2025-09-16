@@ -1,13 +1,15 @@
-## Hi there 👋
+# Hadi (me)
 
-## Little Intro
-- I am a math based computer scienctist, fascinated by AI.
-- I have self-taught myself further math calc and stats, necessarry for AI development.
-- I have also self-taught myself computer systems and software development.
-- I take pleasure in learning new material to boost my computing knowledge.
+## Quick Introduction
+Hey! I am a University student studying Computer Science, currently living in the UK. Being proefficient in a diverse set of programming
+languages, I hold a very versitile style of programming. Also a big enthusiast in AI development, I enjoy
+teaching myself math at a college level.
 
 ## 🔧 Technologies & Tools
 - Python, Go, JavaScript, Java, R, C
 - React, Node.js  
 - Docker, Kubernetes
 - Git, CICD
+
+## Check out my website!
+[www.hadi-khan.com](My Portfolio)
