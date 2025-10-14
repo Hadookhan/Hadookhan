@@ -7,7 +7,7 @@ teaching myself math at a college level.
 
 ## 🤓 Technologies & Tools
 - Python, Go, JavaScript, Java, R, C, C#
-- React, Node.js  
+- React, Node.js, .NET
 - Docker, Kubernetes
 - Git, CICD
 
