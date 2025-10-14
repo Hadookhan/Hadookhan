@@ -6,7 +6,7 @@ languages, I hold a very versitile style of programming. Also a big enthusiast i
 teaching myself math at a college level.
 
 ## 🤓 Technologies & Tools
-- Python, Go, JavaScript, Java, R, C
+- Python, Go, JavaScript, Java, R, C, C#
 - React, Node.js  
 - Docker, Kubernetes
 - Git, CICD
