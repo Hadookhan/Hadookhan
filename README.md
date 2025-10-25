@@ -1,12 +1,12 @@
 # 😎 Hadi
 
-## 😜 Quick Introduction
-Hey! I am a University student studying Computer Science, currently living in the UK. Being proefficient in a diverse set of programming
-languages, I hold a very versitile style of programming. Also a big enthusiast in AI development, I enjoy
-teaching myself math at a college level.
+## 👋 Quick Introduction
+Hey there!
+I am a second-year undergraduate student at Manchester Metropolitan Univerity, studying Computer Science.
+I am a big enthusiast when it comes to programming and tech, I love the versatility and the challenge.
 
 ## 🤓 Technologies & Tools
-- Python, Go, JavaScript, Java, R, C, C#
+- Python, Go, JavaScript, Java, R, C#
 - React, Node.js, .NET
 - Docker, Kubernetes
 - Git, CICD
