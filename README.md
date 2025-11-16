@@ -13,3 +13,7 @@ I am a big enthusiast when it comes to programming and tech, I love the versatil
 
 ## 🤗 Check out my website!
 [My Portfolio](https://www.hadi-khan.com)
+
+<p align="right">
+  <img src="https://api.boot.dev/v1/users/public/39da1ec4-2b32-496e-830a-c99ecb6b38f7/thumbnail" >
+</p>
