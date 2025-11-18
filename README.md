@@ -11,5 +11,4 @@ I am a big enthusiast when it comes to programming and tech, I love the versatil
 - Docker
 - Git, CICD
 
-## 🤗 Check out my website!
-[My Portfolio](https://www.hadi-khan.com)
+If you would like to get in touch, message me on LinkedIn!
