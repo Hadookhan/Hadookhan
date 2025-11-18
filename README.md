@@ -7,8 +7,8 @@ I am a big enthusiast when it comes to programming and tech, I love the versatil
 
 ## 🛠️ Technologies & Tools
 - Python, Go, JavaScript, Java, R, C#
-- React, Node.js, .NET
-- Docker, Kubernetes
+- ReactJS, .NET
+- Docker
 - Git, CICD
 
 ## 🤗 Check out my website!
