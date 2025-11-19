@@ -11,4 +11,4 @@ I am a big enthusiast when it comes to programming and tech, I love the versatil
 - Docker
 - Git, CICD
 
-If you would like to get in touch, message me on LinkedIn!
+If you would like to get in touch, message me on [LinkedIn](https://www.linkedin.com/in/hadi-khan-ab922229a/)!
