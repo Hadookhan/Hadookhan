@@ -1,4 +1,4 @@
-<h1 center>Hadi</h1>
+<h1 align="center"><b>HADI KHAN</b></h1>
 
 ## 👋 Quick Introduction
 Hey there!
