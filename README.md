@@ -1,4 +1,4 @@
-# Hadi
+<h1 center>Hadi</h1>
 
 ## 👋 Quick Introduction
 Hey there!
