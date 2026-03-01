@@ -63,6 +63,10 @@ I particularly find interest in applying DL research in microcontroller systems.
   />
 </p>
 
+## 🕒 Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
 ---
 
 ## 🔎 Contact
