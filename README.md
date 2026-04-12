@@ -43,8 +43,9 @@ I particularly find interest in applying DL research in microcontroller systems.
 ---
 
 ## 📌 Featured Projects
-- **Network Intelligence Toolkit** — Graph-based network resilience and centrality analysis 
-- **Personal Portfolio Website** — Animated React + Vite deployment with CI/CD pipelines
+- **Network Intelligence Toolkit** — Graph-based network resilience and centrality analysis.
+- **Personal Portfolio Website** — Animated React + Vite deployment with CI/CD pipelines.
+- **Personal Gradient Descent** — Purely mathematically modelled gradient descent algorithm with visualisation.
 
 **MORE TO COME — I will soon be applying new material to develop more detailed projects in the future**
 
